@@ -17,7 +17,7 @@ const handler = async (event) => {
 module.exports = { handler }
 
 
-// const { schedule } = require("@netlify/functions");
+// const { schedule } = require("@netlify/functions");z
 
 // const handler = async function(event, context) {
 //     console.log("Received event:", event);
